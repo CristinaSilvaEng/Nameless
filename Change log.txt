@@ -1,0 +1,69 @@
+Data: 13/06/2015
+BranchId: 1
+Autora: Ceres
+Alterações: mapa principal (template).
+Branch inicial: 0.
+
+------------------------------------
+
+Data: 13/06/2015
+BranchId: 2
+Autora: Ceres
+Alterações: add mapa Centro da Cidade. 
+Branch inicial: 1.
+
+------------------------------------
+
+Data: 14/06/2015
+BranchId: 3
+Autora: Cristina
+Alterações: Adicionando eventos ao Centro da Cidade: Carros e Zombies. 
+Branch inicial: 2.
+
+------------------------------------
+
+Data: 22/06/2015
+BranchId: 4
+Autora: Miguel
+Alterações: Adicionando Orla do Rio de Janeiro. 
+Branch inicial: 0.
+
+------------------------------------
+
+Data: 14/06/2015
+BranchId: 5
+Autora: Ceres
+Alterações: Adicionando mapa do aeroporto.
+Branch inicial: 2.
+
+------------------------------------
+
+Data: 23/06/2015
+BranchId: 6
+Autora: Marques
+Alterações: Merge Branch 4 com 2 + Sistema de Batalha. 
+Branch inicial: 2.
+
+------------------------------------
+
+Data: 23/06/2015
+BranchId: 7
+Autora: Cristina
+Alterações: Incrementando Mapas, definindo Roteiro. 
+Branch inicial: 6.
+
+------------------------------------
+
+Data: 23/06/2015
+BranchId: 8
+Autora: Marques
+Alterações: Interação entre mapas e correção de pequenos defeitos.
+Branch inicial: 7.
+
+------------------------------------
+
+Data: 23/06/2015
+BranchId: 9
+Autora: Marques, Cristina, Eduardo, Miguel
+Altera??es: Pre-realease. Definindo enredo inicial, NPC ao longo do mapa, nova Skin para o Stalker.
+Branch inicial: 8.

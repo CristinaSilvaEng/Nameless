@@ -1,0 +1,24 @@
+============================================================
+===		READ ME PLEASE :-(			 ===
+============================================================
+
+> 13/06/2015
+Adicionar ao change log:
+- Data;
+- Id da branch;
+- Pessoa que alterou
+- Breve descrição das alterações;
+- Qual foi a "branch" inicial.
+Exemplo:
+
+Data: 13/06/2015
+BranchId: 1
+Autora: Ceres
+Alterações: mapa principal (template).
+Branch inicial: 0.
+
+Só coloquei isso pra situação em que duas pessoas peguem a mesma branch inicial, daí não vai dar pra fazer a substituição dos arquivos direto. Vai ter que rolar um "resolve conflicts" antes, pra não excluir o trabalho do coleguinha sem querer.
+
+<3,
+Ceres
+
